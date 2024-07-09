@@ -52,7 +52,7 @@ header {
 
 .nav-links {
     display: flex;
-    gap:1rem;
+    gap: 0px 5px;
     justify-content: space-around;
     list-style-type: none;
     background: transparent;
