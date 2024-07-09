@@ -51,6 +51,7 @@ header {
 
 .nav-links {
     display: flex;
+    gap:1rem;
     justify-content: space-around;
     list-style-type: none;
     background: transparent;
